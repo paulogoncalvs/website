@@ -2114,7 +2114,6 @@ __metadata:
     jest-serializer-html: "npm:^7.1.0"
     lint-staged: "npm:^15.2.10"
     mini-css-extract-plugin: "npm:^2.9.1"
-    postcss: "npm:^8.4.47"
     postcss-import: "npm:^16.1.0"
     postcss-loader: "npm:^8.1.1"
     preact: "npm:^10.24.0"
@@ -11216,7 +11215,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.23, postcss@npm:^8.4.33, postcss@npm:^8.4.38, postcss@npm:^8.4.4, postcss@npm:^8.4.41, postcss@npm:^8.4.47":
+"postcss@npm:^8.4.23, postcss@npm:^8.4.33, postcss@npm:^8.4.38, postcss@npm:^8.4.4, postcss@npm:^8.4.41":
   version: 8.4.47
   resolution: "postcss@npm:8.4.47"
   dependencies:
